@@ -16,7 +16,6 @@
 12. Modules and Packages
 
 
-## Pengenalan Python
 ### Pertemuan 1 : 
   1. Dasar-Dasar Python (Instalasi)
   2. Ekosistem Python :
@@ -30,24 +29,24 @@
   2. Variables and Types
   3. Lists
   4. Basic Operators
+  5. String Formatting
 
-  `Latihan : 
+  `Latihan : `
   
 ### Pertemuan 3 :
-  1. String Formatting
-  2. Basic String Operation
-  3. Condition
-  4. Loops
+  1. Basic String Operation
+  2. Condition
+  3. Loops
+  4. Function
+  5. Classes and Objects
   
-  `Latihan : 
+  `Latihan : `
   
 ### Pertemuan 3 :
-  1. Function
-  2. Classes and Objects
-  3. Dictionaries
-  4. Module and Package
+  1. Dictionaries
+  2. Module and Package
   
-  `Latihan :
+  `Latihan : `
  
 
 
