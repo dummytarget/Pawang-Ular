@@ -15,3 +15,5 @@
 
 
 [Referensi Kurikulum Pembelajaran](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
+[Referensi Kurikulum Pembelajaran](https://docs.python.org/3.8/tutorial/interpreter.html)
+
