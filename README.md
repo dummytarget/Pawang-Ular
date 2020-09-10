@@ -14,6 +14,7 @@
  3. I/O 
 
 
-[Referensi Kurikulum Pembelajaran](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
-[Referensi Kurikulum Pembelajaran](https://docs.python.org/3.8/tutorial/interpreter.html)
+[Referensi Kurikulum Pembelajaran : 1](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
+
+[Referensi Kurikulum Pembelajaran : 2](https://docs.python.org/3.8/tutorial/interpreter.html)
 
