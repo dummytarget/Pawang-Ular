@@ -50,9 +50,11 @@
  
 
 
-[Referensi Kurikulum Pembelajaran : 1](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
+[Referensi Pembelajaran : 1](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
 
-[Referensi Kurikulum Pembelajaran : 2](https://docs.python.org/3.8/tutorial/interpreter.html)
+[Referensi Pembelajaran : 2](https://docs.python.org/3.8/tutorial/interpreter.html)
 
-[Referensi Kurikulum Pembelajaran : 3](https://www.learnpython.org/)
+[Referensi Pembelajaran : 3](https://www.learnpython.org/)
+
+[Referensi Pembelajaran : 4](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
