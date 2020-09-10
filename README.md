@@ -5,7 +5,6 @@
 Pertemuan 1 : 
   1. Dasar-Dasar Python (Instalasi)
   2. Ekosistem Python :
-  
       - Pip
       - Virtual Environment
 
