@@ -66,33 +66,29 @@
   
 ### Pertemuan 10 :
   1. Mini Project :
-  - To Do List
-  - Rock Paper Scissors
-  - Simple Calc
-  - Cashier Apps
+    - To Do List
+    - Rock Paper Scissors
+    - Simple Calc
+    - Cashier Apps
 
 ---
 Basic
 
-[Referensi Pembelajaran : 1](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
-
-[Referensi Pembelajaran : 2](https://docs.python.org/3.8/tutorial/interpreter.html)
-
-[Referensi Pembelajaran : 3](https://www.learnpython.org/)
-
-[Referensi Pembelajaran : 4](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Referensi Pembelajaran : 1](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
+- [Referensi Pembelajaran : 2](https://docs.python.org/3.8/tutorial/interpreter.html)
+- [Referensi Pembelajaran : 3](https://www.learnpython.org/)
+- [Referensi Pembelajaran : 4](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ---
 Databases
 
-[Referensi Pembelajaran : 5](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
-
-[Referensi Pembelajaran : 6](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
+- [Referensi Pembelajaran : 5](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+- [Referensi Pembelajaran : 6](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
 
 ----
 Deployment
 
-[Referensi Pembelajaran : 7](https://www.youtube.com/watch?v=YFBRVJPhDGY&list=LLR_PXKHpu1mHTIhmYTBLWag&index=16&t=0s)
+- [Referensi Pembelajaran : 7](https://www.youtube.com/watch?v=YFBRVJPhDGY&list=LLR_PXKHpu1mHTIhmYTBLWag&index=16&t=0s)
 
 
 
