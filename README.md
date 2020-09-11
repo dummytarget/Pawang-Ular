@@ -22,9 +22,8 @@
       - Pip
       - Virtual Environment
       
-  [Referensi](https://www.tecmint.com/install-pip-in-linux/)
-  
-  [Referensi](https://docs.python-guide.org/dev/virtualenvs/)
+  - [Referensi](https://www.tecmint.com/install-pip-in-linux/)
+  - [Referensi](https://docs.python-guide.org/dev/virtualenvs/)
       
   `Latihan : Buatlah Repository di Github`
 
