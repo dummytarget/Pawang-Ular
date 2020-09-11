@@ -1,21 +1,6 @@
 # Pawang Ular (Python)
 
-
-## Basic Python
-1. Hello, World!
-2. Variables and Types
-3. Lists
-4. Basic Operators
-5. String Formatting
-6. Basic String Operations
-7. Conditions
-8. Loops
-9. Functions
-10. Classes and Objects
-11. Dictionaries
-12. Modules and Packages
-
-
+## A. Dasar Python
 ### Pertemuan 1 : 
   1. Dasar-Dasar Python (Instalasi)
   2. Ekosistem Python :
@@ -55,6 +40,40 @@
  
 ---
 
+## B. Flask
+### Pertemuan 5 :
+  1. Hello, World!
+    - passing variable on string
+  2. Template
+    - HTML and CSS
+    - Jinja
+
+### Pertemuan 6 :
+  1. Simple Form
+  2. Simple Login
+  
+### Pertemuan 7 :
+  1. Pengenalan Database (MongoDB : NoSQL)
+    - instalasi
+    - cheatsheet
+    
+### Pertemuan 8 :
+  1. Simple CRUD
+  
+## C. Development
+### Pertemuan 9 :
+  1. Publikasi Aplikasi pada server (VPS)
+  
+### Pertemuan 10 :
+  1. Mini Project :
+    - To Do List
+    - Rock Paper Scissors
+    - Simple Calc
+    - Cashier Apps
+
+---
+Basic
+
 [Referensi Pembelajaran : 1](https://github.com/praxis-academy/akademik/tree/master/kurikulum/enterprise-python)
 
 [Referensi Pembelajaran : 2](https://docs.python.org/3.8/tutorial/interpreter.html)
@@ -62,4 +81,18 @@
 [Referensi Pembelajaran : 3](https://www.learnpython.org/)
 
 [Referensi Pembelajaran : 4](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+---
+Databases
+
+[Referensi Pembelajaran : 5](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
+[Referensi Pembelajaran : 6](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
+
+----
+Deployment
+
+[Referensi Pembelajaran : 7](https://www.youtube.com/watch?v=YFBRVJPhDGY&list=LLR_PXKHpu1mHTIhmYTBLWag&index=16&t=0s)
+
+
 
