@@ -36,6 +36,7 @@
   3. Error Handling
   
   `Latihan : Berikan Error Handling pada aplikasi ATM`
+  
   `Latihan : Buatlah modul sendiri`
  
 ---
@@ -66,10 +67,10 @@
   
 ### Pertemuan 10 :
   1. Mini Project :
-    - To Do List
-    - Rock Paper Scissors
-    - Simple Calc
-    - Cashier Apps
+      - To Do List
+      - Rock Paper Scissors
+      - Simple Calc
+      - Cashier Apps
 
 ---
 Basic
