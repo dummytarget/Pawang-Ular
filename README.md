@@ -31,7 +31,7 @@
   4. Basic Operators
   5. String Formatting
 
-  `Latihan : `
+  `Latihan : Membuat script file .py`
   
 ### Pertemuan 3 :
   1. Basic String Operation
