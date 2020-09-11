@@ -31,7 +31,7 @@
   4. Basic Operators
   5. String Formatting
 
-  `Latihan : Membuat script file .py`
+  `Latihan : Buatlah script file .py`
   
 ### Pertemuan 3 :
   1. Basic String Operation
@@ -40,7 +40,7 @@
   4. Function
   5. Classes and Objects
   
-  `Latihan : `
+  `Latihan : Buatlah Program ATM simple`
   
 ### Pertemuan 4 :
   1. Dictionaries
