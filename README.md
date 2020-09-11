@@ -44,10 +44,10 @@
 ## B. Flask
 ### Pertemuan 5 :
   1. Hello, World!
-    - passing variable on string
+      - passing variable on string
   2. Template
-    - HTML and CSS
-    - Jinja
+      - HTML and CSS
+      - Jinja
 
 ### Pertemuan 6 :
   1. Simple Form
@@ -55,8 +55,8 @@
   
 ### Pertemuan 7 :
   1. Pengenalan Database (MongoDB : NoSQL)
-    - instalasi
-    - cheatsheet
+      - instalasi
+      - cheatsheet
     
 ### Pertemuan 8 :
   1. Simple CRUD
