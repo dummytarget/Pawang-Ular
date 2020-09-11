@@ -50,7 +50,8 @@
   2. Module and Package
   3. Error Handling
   
-  `Latihan : `
+  `Latihan : Berikan Error Handling pada aplikasi ATM`
+  `Latihan : Buatlah modul sendiri`
  
 ---
 
