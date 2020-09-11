@@ -34,6 +34,7 @@
   1. Dictionaries
   2. Module and Package
   3. Error Handling
+  4. API
   
   `Latihan : Berikan Error Handling pada aplikasi ATM`
   
@@ -60,6 +61,8 @@
     
 ### Pertemuan 8 :
   1. Simple CRUD
+  
+  `Latihan : Buatlah API sederhana untuk Apps yang sudah dibuat`
   
 ## C. Development
 ### Pertemuan 9 :
