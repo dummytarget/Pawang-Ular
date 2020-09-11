@@ -48,6 +48,7 @@
 ### Pertemuan 4 :
   1. Dictionaries
   2. Module and Package
+  3. Error Handling
   
   `Latihan : `
  
