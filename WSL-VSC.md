@@ -21,3 +21,4 @@
 <img src="https://github.com/dummytarget/Pawang-Ular/blob/master/img/4.png" width="500" />
 4. Lalu pilih WSL Bash
 <img src="https://github.com/dummytarget/Pawang-Ular/blob/master/img/5.png" width="500" />
+5. Terminal WSL sudah bisa digunakan, open projek untuk melihat di direktori mana project tersebut berada
