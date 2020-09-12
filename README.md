@@ -15,7 +15,7 @@
   
   Contoh direkori
   
-    WSL
+    WSL (direktori utama)
   
     |---- virtualenv
     
