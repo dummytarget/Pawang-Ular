@@ -14,7 +14,7 @@
   
   Contoh direkori
   
-  `WSL
+    WSL
   
     |---- virtualenv
     
@@ -22,7 +22,7 @@
     
             |-----01
             
-            |-----02`
+            |-----02
 
 ### Pertemuan 2 :
   1. Hello, World!
