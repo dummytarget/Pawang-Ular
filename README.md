@@ -13,11 +13,11 @@
   `Latihan : Buatlah Repository di Github`
   
   Contoh direkori
-  WSL
+  `WSL
     |---- virtualenv
     |---- Pawang-Ular
             |-----01
-            |-----02
+            |-----02`
 
 ### Pertemuan 2 :
   1. Hello, World!
