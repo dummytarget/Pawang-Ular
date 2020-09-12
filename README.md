@@ -3,7 +3,8 @@
 ## A. Dasar Python
 ### Pertemuan 1 : 
   1. Dasar-Dasar Python (Instalasi)
-  2. Ekosistem Python :
+  2. Konfigurasi WSL dan VSC (Windows Only)
+  3. Ekosistem Python :
       - Pip
       - Virtual Environment
       
