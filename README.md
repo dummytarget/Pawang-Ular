@@ -11,6 +11,13 @@
   - [Referensi](https://docs.python-guide.org/dev/virtualenvs/)
       
   `Latihan : Buatlah Repository di Github`
+  
+  Contoh direkori
+  WSL
+    |---- virtualenv
+    |---- Pawang-Ular
+            |-----01
+            |-----02
 
 ### Pertemuan 2 :
   1. Hello, World!
