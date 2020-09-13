@@ -3,7 +3,7 @@
 ## A. Dasar Python
 ### Pertemuan 1 : 
   1. Dasar-Dasar Python (Instalasi)
-  2. Konfigurasi WSL dan VSC (Windows Only)
+  2. [Konfigurasi WSL dan VSC (Windows Only)](https://github.com/dummytarget/Pawang-Ular/blob/master/WSL-VSC.md)
   3. Ekosistem Python :
       - Pip
       - Virtual Environment
@@ -15,7 +15,7 @@
   
   Contoh direkori
   
-    WSL
+    WSL (direktori utama)
   
     |---- virtualenv
     
