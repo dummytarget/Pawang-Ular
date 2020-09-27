@@ -21,6 +21,16 @@ def actInput():
 def login():
     return render_template("login.html")
 
+@app.route('/beranda', methods=["POST"])
+def beranda():
+    user = str(request.form.get('user'))
+    password = str(request.form.get('password'))
+
+    if (user == "Kadek" and password == "123"):
+        return render_template("beranda.html", string="Selamat Datang", user=user)
+    else:
+        return render_template("gagal.html")
+
 @app.route('/hasil/<angka>')
 def hasil(angka):
     angka = angka
