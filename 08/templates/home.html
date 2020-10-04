@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block page %}{{title}}{% endblock %}
+{% block content %}
+
+  <br>
+  <div class="container">
+  <h3>{{my_string}}</h3>
+
+  <p>Member</p>
+  <table class="table table-condensed" style="border-collapse:collapse;">
+      <thead>
+          <tr>
+              <th>#</th>
+              <th>Name</th>
+              <th>Address</th>
+          </tr>
+      </thead>
+      <tbody>
+          {% for n in data %}
+          <tr data-toggle="collapse" data-target="#demo{{loop.index}}" class="accordion-toggle">
+          <td>{{loop.index}}</td>
+          <td>{{n.name}}</td>
+          <td>{{n.address}}</td>
+          <td><a href="/update/{{n['_id']}}">Update</a></td>
+          <td><a href="./remove?_id={{ n['_id']}}">Delete</a></td>
+          </tr>
+          {% endfor %}
+      </tbody>
+  </table>
+  <br>
+</div>
+
+
+{% endblock %}
