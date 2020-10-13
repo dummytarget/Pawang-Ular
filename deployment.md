@@ -39,7 +39,7 @@
 	 - service reload apache2
 
 11. config wsgi file
-	- .../<your app name># sudo nano <your app name>.wsgi
+	- /<your app name># sudo nano <your app name>.wsgi
 	- 
 	```
 	#!/usr/bin/python
