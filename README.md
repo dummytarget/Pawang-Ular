@@ -80,6 +80,16 @@
 ## C. Development
 ### Pertemuan 9 :
   1. Publikasi Aplikasi pada server (VPS)
+  2. Requirement
+    - apache2 (or higher version) : sudo apt install apcahe2
+        - sudo ufw app list (to show app that installed)
+        - sudo ufw allow 'Apache'
+        - sudo service status apache2
+    - libapache2-mod-wsgi python-dev 
+    - go to dir /var/www/ and create your directory app
+    - copy your app file and virtualenv into it
+    - sudo nano /etc/apache2/sites-available/<your directory>.conf
+    - 
   
 ### Pertemuan 10 :
   1. Mini Project :
