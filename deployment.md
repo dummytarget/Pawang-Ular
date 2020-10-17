@@ -8,7 +8,7 @@
 2. to show app that installed
    - sudo ufw app list
 3. sudo ufw allow 'Apache'
-4. sudo service status apache2
+4. sudo service apache2 status
 
 5. sudo apt install libapache2-mod-wsgi python-dev
 6. go to dir /var/www/ and create your directory app (ex. `/var/www/microweb)
